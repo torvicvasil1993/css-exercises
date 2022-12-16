@@ -1,0 +1,14 @@
+div {
+    background-color: red;
+    color: white; 
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* 
+https://www.w3schools.com/html/html_css.asp
+https://www.w3schools.com/css/css_font_size.asp
+https://www.w3schools.com/css/css_align.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight
+*/
